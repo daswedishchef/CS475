@@ -1,0 +1,60 @@
+/////////////////////////
+--- Test 1 ---
+Threads = 1 
+Data Size = 3000
+Average Time = 0.000017
+Peak Performance =   195.03 MegaMults/Sec
+Average Performance =   178.09 MegaMults/Sec
+
+--- Test 2 ---
+Threads = 4 
+Data Size = 3000
+Average Time = 0.000012
+Peak Performance =   519.94 MegaMults/Sec
+Average Performance =   443.19 MegaMults/Sec
+
+--- Results ---
+Speedup S = 2.488630
+Parallel Fraction = 0.797563
+/////////////////////////
+
+/////////////////////////
+--- Test 1 ---
+Threads = 1 
+Data Size = 300000
+Average Time = 0.001575
+Peak Performance =   200.15 MegaMults/Sec
+Average Performance =   191.50 MegaMults/Sec
+
+--- Test 2 ---
+Threads = 4 
+Data Size = 300000
+Average Time = 0.000576
+Peak Performance =   565.88 MegaMults/Sec
+Average Performance =   528.03 MegaMults/Sec
+
+--- Results ---
+Speedup S = 2.757251
+Parallel Fraction = 0.849760
+/////////////////////////
+
+/////////////////////////
+--- Test 1 ---
+Threads = 1 
+Data Size = 30000000
+Average Time = 0.155289
+Peak Performance =   197.42 MegaMults/Sec
+Average Performance =   193.31 MegaMults/Sec
+
+--- Test 2 ---
+Threads = 4 
+Data Size = 30000000
+Average Time = 0.053644
+Peak Performance =   728.58 MegaMults/Sec
+Average Performance =   569.55 MegaMults/Sec
+
+--- Results ---
+Speedup S = 2.946284
+Parallel Fraction = 0.880786
+/////////////////////////
+
